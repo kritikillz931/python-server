@@ -1,4 +1,6 @@
 {
+    "python.formatting.autopep8Path": "/home/legacy/.pyenv/shims/autopep8",
+
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true
 }
